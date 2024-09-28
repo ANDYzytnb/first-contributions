@@ -1,5 +1,6 @@
 # Contributors
 - Hello World! I'm [Shankhya Subhra Chatterjee](https://github.com/SSC-SDE). **Cheers to the community of never ending learning!**
+- Hello, nice to meet you, I will find my way someday(https://github.com/young-ye).**cheer up!**
 - [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
 - [nchong128](https://github.com/nchong128) was here!
 - Hello People this is my First time Github!. [Taeos](https://github.com/taeos). 
@@ -53,6 +54,7 @@
 - [Jad] **My first contribution**
 - [Avanish Mallya] **My First Contribution**
 - [Thelen] **First contribution
+- [JavaScribeXixi2024] **My First Contribution**
 - [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Worlanyo Kwabla Kporfeame](https://github.com/kworlanyo) **First Contribution**
@@ -246,6 +248,7 @@ I am glad to use Github
 - [Bishwas Bhatt](https://github.com/bishwasbhatt2) ** First time contributing in open source **
 - [BVI Engineer](https://github.com/bviengineer) **Coding is a journey, join in!**
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
+- [John Patrick Valera](https://github.com/withoutwax13) **Hi**
 - [El Mehdi Souiyah](https://github.com/mehdi1193) **Moroccan guy making his first Contribution**
 - Andrew Gajewski
 - CarlosMartinez
@@ -8269,6 +8272,7 @@ Didac Vilarnau
 - Samuel G
 - [**Krishna Chaitanya**](https://github.com/ekrishnachaitanya2004) Creater of [Dev-BLogs](https://developersblogs.netlify.app)
 - [Karan Swami](https://github.com/Karan3304)
+- [a-lebed](https://github.com/a-lebedynets) **Let's begin!!!**
 - [Buddhi Wickramasinghe] (https://github.com/buddhiW) **Starting my Open Source journey!**
 - [Paolo Lache] (https://github.com/paololache) **My first step as a dev**
 
